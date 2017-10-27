@@ -20,7 +20,7 @@ class PyXLPro(object):
                 # print(self.xl.get_sheet_names())
                 self.process_xl()
         except:
-            print('Something wrong happended!')
+            print('Something wrong happened!')
 
     def process_xl(self):
         print('****')
